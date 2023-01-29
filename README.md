@@ -19,10 +19,6 @@ Hi there! 👋 My name is Syed Danyal Raza and I am an IT student studying at Ai
     </a>
 </p>
 
-## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
-        alt="Syed-Danyal-Raza" /></p>
-
 ## 🛠️ My Skills
 
 <p>
